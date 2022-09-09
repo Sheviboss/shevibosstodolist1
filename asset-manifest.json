@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sheviboss/shevibosstodolist1/static/css/main.a6ff15a7.css",
+    "main.js": "/Sheviboss/shevibosstodolist1/static/js/main.5fb1f5fe.js",
+    "static/js/787.740e5f1e.chunk.js": "/Sheviboss/shevibosstodolist1/static/js/787.740e5f1e.chunk.js",
+    "index.html": "/Sheviboss/shevibosstodolist1/index.html",
+    "main.a6ff15a7.css.map": "/Sheviboss/shevibosstodolist1/static/css/main.a6ff15a7.css.map",
+    "main.5fb1f5fe.js.map": "/Sheviboss/shevibosstodolist1/static/js/main.5fb1f5fe.js.map",
+    "787.740e5f1e.chunk.js.map": "/Sheviboss/shevibosstodolist1/static/js/787.740e5f1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6ff15a7.css",
+    "static/js/main.5fb1f5fe.js"
+  ]
+}
